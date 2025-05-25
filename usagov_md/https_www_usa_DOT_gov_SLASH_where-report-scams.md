@@ -1,0 +1,32 @@
+1. [Home](/)
+2. [Scams and fraud](/scams-and-fraud)
+3. Learn where to report a scam
+
+Learn where to report a scam
+============================
+
+Scammers use tricks and lies to steal your money or personal information. Scams happen online, by mail, phone, text, social media, in person, and through new technologies.
+
+USAGov's where to report a scam tool helps you find the best agency or organization to report the scam.
+
+Steps to follow
+---------------
+
+To identify where to report the scam, we will ask you:
+
+1. Where the scam took place
+2. To identify the scam category
+3. For additional details
+4. To follow the steps to report the scam
+
+This will take you approximately 1-2 minutes to complete.
+
+[Learn where to report a scam](/where-report-scams/where-did-scam-take-place#block-usagov-content)
+
+### If you are not sure it's a scam
+
+If your issue is with a legitimate business that has wronged you, it may not be an actual scam.
+[Visit USA.gov's complaints section](https://www.usa.gov/consumer-complaints)
+to learn how to file a complaint instead. If you are not sure, select "learn where to report the scam" above to find out how to identify types of scams.
+
+[Top](#main-content)

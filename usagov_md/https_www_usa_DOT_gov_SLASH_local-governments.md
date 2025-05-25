@@ -1,0 +1,96 @@
+1. [Home](/)
+2. [The U.S. and its government](/about-the-us)
+3. [State and local governments](/state-local-governments)
+4. Local governments
+
+* [The U.S. and its government](/about-the-us)
+  + [Buying from the U.S. government](/buy-from-government)
+  + [U.S. facts and figures](/facts-figures)
+  + [A-Z index of U.S. government departments and agencies](/agency-index)
+  + [State and local governments](/state-local-governments)
+    - [State governments](/state-governments)
+    - [State governors](/state-governor)
+    - current page
+
+      Local governments
+    - [Find and contact elected officials](/elected-officials)
+    - [Find your state or local election office](/state-election-office)
+    - [State motor vehicle services](/state-motor-vehicle-services)
+    - [State consumer protection offices](/state-consumer)
+    - [State social service agencies](/state-social-services)
+    - [State attorneys general](/state-attorney-general)
+    - [State corrections departments](/state-corrections)
+    - [State health departments](/state-health)
+    - [State emergency management agencies](/state-emergency-management)
+  + [Branches of government](/branches-of-government)
+  + [Elected officials](/elected-officials)
+  + [Federal laws and regulations](/laws-and-regulations)
+  + [Indian tribes and resources for Native Americans](/tribes)
+  + [Federal, state, territory, county, and municipal courts](/courts)
+
+Local governments
+=================
+
+Find contact information for local governments by state.
+
+Select or type your state or territory:
+---------------------------------------
+
+* [Alabama (AL)](https://www.sos.alabama.gov/index.php/city-county-lookup)
+* [Alaska (AK)](https://alaska.gov/communit.html)
+* [Arizona (AZ)](https://www.azcounties.org)
+* [Arkansas (AR)](https://local.arkansas.gov/index.php)
+* [California (CA)](https://www.counties.org/county-websites-profile-information)
+* [Colorado (CO)](https://dola.colorado.gov/lgis/lgActiveAlpha.jsf)
+* [Connecticut (CT)](https://portal.ct.gov/en/Government/Cities-and-Towns)
+* [Delaware (DE)](https://delaware.gov/guides/municipalities/)
+* [District of Columbia (DC)](https://dccouncil.gov/the-council/)
+* [Florida (FL)](https://dos.myflorida.com/library-archives/research/florida-information/government/local-resources/fl-cities/)
+* [Georgia (GA)](https://www.gacities.com/Directories/Member-Cities.aspx)
+* [Hawaii (HI)](https://portal.ehawaii.gov/government/county-governments/)
+* [Idaho (ID)](https://idaho.gov/)
+* [Illinois (IL)](https://apps.ilsos.gov/isa/localgovnameindexsrch.jsp)
+* [Indiana (IN)](https://www.in.gov/counties/)
+* [Iowa (IA)](https://www.iowa.gov/local-government)
+* [Kansas (KS)](https://www.kansascounties.org/resources/county-websites)
+* [Kentucky (KY)](https://www.kentucky.gov/government/Pages/local.aspx)
+* [Louisiana (LA)](https://www.louisiana.gov/local-louisiana/)
+* [Maine (ME)](https://aroostook.me.us/maine-counties/)
+* [Maryland (MD)](https://www.maryland.gov/pages/nearme.aspx)
+* [Massachusetts (MA)](https://www.mass.gov/lists/massachusetts-city-and-town-websites)
+* [Michigan (MI)](https://www.michigan.gov/som/about-michigan/michigan-counties)
+* [Minnesota (MN)](https://mn.gov/portal/government/local/)
+* [Mississippi (MS)](https://sos.ms.gov/communications-publications/2020-2024-mississippi-blue-book)
+* [Missouri (MO)](https://www.mo.gov/government/city-county-government/)
+* [Montana (MT)](https://www.mtcounties.org/counties/contact-a-county/)
+* [Nebraska (NE)](https://www.nebraska.gov/attractions/city-county/)
+* [Nevada (NV)](https://ce.naco.org/?find=true)
+* [New Hampshire (NH)](https://www.nh.gov/municipal/)
+* [New Jersey (NJ)](https://www.nj.gov/nj/gov/county/)
+* [New York (NY)](https://www.ny.gov/counties)
+* [North Carolina (NC)](https://www.sog.unc.edu/resources/microsites/knapp-library/counties-north-carolina)
+* [North Dakota (ND)](https://www.nd.gov/government/local-government)
+* [Ohio (OH)](https://ohio.gov/government/topic-hubs/local-government/)
+* [Oklahoma (OK)](https://www.travelok.com/cities-and-regions)
+* [Oregon (OR)](https://sos.oregon.gov/blue-book/Pages/local.aspx)
+* [Pennsylvania (PA)](https://www.pacounties.org/who-we-are/pennsylvania-county-by-class)
+* [Rhode Island (RI)](https://opengov.sos.ri.gov/GOVDirectoryPublic/OfficialSearch?topmenuId=104&amp;page=IdxMuni)
+* [South Carolina (SC)](https://sc.gov/government)
+* [South Dakota (SD)](https://www.sdcounties.org/counties/)
+* [Tennessee (TN)](https://www.tn.gov/directory/county-city-web-sites.html)
+* [Texas (TX)](https://directory.tml.org/)
+* [Utah (UT)](https://www.utah.gov/government/cityCounty.html)
+* [Vermont (VT)](https://www.vermont.gov/towns-and-Cities#gsc.tab=0)
+* [Virginia (VA)](https://www.statelocalgov.net/state-va.cfm#City%20Guides)
+* [Washington (WA)](https://wa.gov/your-government)
+* [West Virginia (WV)](https://www.wv.gov/local/Pages/default.aspx)
+* [Wisconsin (WI)](https://www.wicounties.org/the-counties/)
+* [Wyoming (WY)](https://wyo-wcca.org/county-information/)
+
+SHARE THIS PAGE:
+
+[![Facebook](/themes/custom/usagov/images/social-media-icons/Facebook_Icon.svg)](https://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/local-governments&v=3)
+[![X Twitter USAGov](/themes/custom/usagov/images/social-media-icons/X_Twitter_Icon.svg?version=2)](https://twitter.com/intent/tweet?source=webclient&text=https://www.usa.gov/local-governments)
+[![Email](/themes/custom/usagov/images/social-media-icons/Email_Icon.svg?version=2)](mailto:?subject=https://www.usa.gov/local-governments)
+
+[Top](#main-content)

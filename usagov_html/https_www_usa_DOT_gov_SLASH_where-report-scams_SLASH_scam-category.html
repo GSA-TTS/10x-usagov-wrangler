@@ -1,0 +1,146 @@
+<main class="main-content usa-layout-docs usa-section usagov-wizard" data-pagetype="" id="main-content">
+ <div class="grid-container">
+  <div class="grid-row breadcrumb-spacing">
+   <div>
+    <div class="settings-tray-editable block block-system block-system-breadcrumb-block" data-drupal-settingstray="editable" id="block-usagov-breadcrumbs">
+     <nav aria-label="Breadcrumb" class="margin-top-neg-3 mobile-lg:margin-top-2 tablet:margin-top-neg-3 desktop:margin-top-0 margin-bottom-2">
+      <ol class="usa-breadcrumb__list" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+       <li class="usa-breadcrumb__list-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+        <a class="usa-breadcrumb__link" href="/" itemprop="item">
+         <span itemprop="name">
+          Home
+         </span>
+        </a>
+        <meta content="1" itemprop="position"/>
+       </li>
+       <li class="usa-breadcrumb__list-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+        <a class="usa-breadcrumb__link" href="/scams-and-fraud" itemprop="item">
+         <span itemprop="name">
+          Scams and fraud
+         </span>
+        </a>
+        <meta content="2" itemprop="position"/>
+       </li>
+       <li class="usa-breadcrumb__list-item usa-breadcrumb__currrent" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+        <span itemprop="name">
+         Learn where to report a scam
+        </span>
+        <meta content="3" itemprop="position"/>
+       </li>
+      </ol>
+     </nav>
+    </div>
+   </div>
+  </div>
+  <div class="">
+   <div class="hidden" data-drupal-messages-fallback="">
+   </div>
+  </div>
+  <div class="grid-row grid-gap">
+   <div class="usa-layout-docs__main usa-prose desktop:grid-col-fill">
+    <div class="block block-system block-system-main-block" id="block-usagov-content">
+     <div class="usa-prose usagov-wizard--content">
+      <p class="usagov-wizard--content-step-indicator">
+       Step 2
+      </p>
+      <div class="usa-prose">
+       <h1 class="text-red-50" id="skip-to-h1">
+        Which category best fits the type of scam you experienced?
+       </h1>
+      </div>
+      <div class="field field--name-field-options-list field--type-viewsreference field--label-hidden field__item">
+       <div class="views-element-container">
+        <div class="viewsreference--view-title">
+         Wizard options
+        </div>
+        <div class="usa-alert usa-alert--error usa-alert--slim usagov-wizard--error" id="wizard-border">
+         <div class="usa-alert__body">
+          <div class="maxw-tablet" id="msg" tabindex="-1">
+          </div>
+         </div>
+        </div>
+        <div class="js-view-dom-id-3860c2aae6f0c492646f68e2aea3a6dff8994474842826aacb7e3914cf43078c">
+         <fieldset>
+          <legend class="usa-sr-only">
+           Which category best fits the type of scam you experienced?
+          </legend>
+          <div class="views-row">
+           <div class="views-field views-field-field-option-name">
+            <div class="field-content">
+             <input class="usa-radio__input usa-radio__input--tile" id="identity---yours-or-someone-elses" name="options" type="radio" value="/where-report-scams/identity-scam"/>
+             <label class="usa-radio__label" for="identity---yours-or-someone-elses">
+              <span class="usagov-label--text">
+               <strong>
+                Identity - yours or someone else's
+               </strong>
+               <br/>
+               <p>
+                The scammer tried to get your personal information, used your identity, or pretended to be someone else.
+               </p>
+              </span>
+             </label>
+            </div>
+           </div>
+          </div>
+          <div class="views-row">
+           <div class="views-field views-field-field-option-name">
+            <div class="field-content">
+             <input class="usa-radio__input usa-radio__input--tile" id="an-organization" name="options" type="radio" value="/where-report-scams/what-type-organization"/>
+             <label class="usa-radio__label" for="an-organization">
+              <span class="usagov-label--text">
+               <strong>
+                An organization
+               </strong>
+               <br/>
+               <p>
+                The scam involved an organization like a business, company, bank, or government agency.
+               </p>
+              </span>
+             </label>
+            </div>
+           </div>
+          </div>
+          <div class="views-row">
+           <div class="views-field views-field-field-option-name">
+            <div class="field-content">
+             <input class="usa-radio__input usa-radio__input--tile" id="other" name="options" type="radio" value="/where-report-scams/report-other-scam"/>
+             <label class="usa-radio__label" for="other">
+              <span class="usagov-label--text">
+               <strong>
+                Other
+               </strong>
+               <br/>
+               <p>
+                This scam involved something else.
+               </p>
+              </span>
+             </label>
+            </div>
+           </div>
+          </div>
+         </fieldset>
+        </div>
+       </div>
+      </div>
+      <div class="margin-bottom-2 desktop:usa-reverse usagov-wizard-buttons grid-row">
+       <button class="usa-button usagov-button margin-right-2" id="prior" onclick="window.location.href = '/where-report-scams/where-did-scam-take-place#block-usagov-content'">
+        Previous
+       </button>
+       <button class="usa-button usa-button--outline usagov-button--outline-black usa-button--big font-sans-md" id="next" onclick="if(document.querySelector(`input[name='options']:checked`)) { window.location.href = document.querySelector(`input[name='options']:checked`).value+'#block-usagov-content'; }">
+        Next
+       </button>
+      </div>
+      <div class="display-inline-block margin-top-2">
+       <a data-analytics="wizard-start-over" href="/where-report-scams/where-did-scam-take-place#block-usagov-content">
+        Start over
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <a aria-label="Back to top" href="#main-content" id="back-to-top">
+  Top
+ </a>
+</main>
